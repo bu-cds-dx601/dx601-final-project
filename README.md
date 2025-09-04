@@ -1,4 +1,4 @@
-# DX 601 Homework XX
+# DX 601 Final Project
 
 ## Instructions
 
